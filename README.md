@@ -1,5 +1,11 @@
 # gtex_BRCA
 
+GTEx，The Genotype-Tissue Expression (GTEx) project，首次被提出来是**2013年**，上百位科学家联名在**Nature Genetics**杂志发表的文章首次介绍了“**基因型-组织表达工程**”，并成立了“基因型-组织表达研究联盟”（Genotype-Tissue Expression Consortium，GTEx）以下简称“GTEx”）。
+
+已经发表的相关文献见：https://gtexportal.org/home/publicationPage 除了上面在science和nature大量发paper外，还在一下nature子刊发了不少。
+
+这些数据还有着非常大的挖掘价值，希望大家踊跃思考！
+
 ### 首先从GTEX数据库下载表达矩阵文件
 
 这个文件有点大，注意网速。
@@ -136,3 +142,6 @@ pheatmap(x,show_rownames = T,show_colnames = F,
 
 ### 更多分析
 
+相信经过这个简单的教程，你对GTEX数据库应该是有所了解了，而且也很容易把数据拿到，利用到自己的课题里面。
+
+如果需要更深入的分析，欢迎发邮件咨询我哈。
